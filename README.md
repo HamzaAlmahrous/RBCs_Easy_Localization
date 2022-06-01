@@ -1,5 +1,6 @@
 # RBCs
 Red Blood Cells Volunteer Team
+![cove](https://github.com/HamzaAlmahrous/RBCs_Easy_Localization/blob/master/assets/images/1.png)
 # flutter_application_
 
 A new Flutter project to Explain how to use easy_localization package.
